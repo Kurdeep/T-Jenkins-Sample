@@ -1,4 +1,3 @@
-def call(){
-  sh 'echo Hi from alags'
+def call() {
+    echo 'Hi from alags'
 }
-
